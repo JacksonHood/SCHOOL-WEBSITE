@@ -1,0 +1,13 @@
+ul{
+    position: relative;
+    background-color: black;}
+li{
+display:inline-block;
+list-style-type:none;
+padding:15px;}
+li:hover{
+    background-color: bisque;}
+    a{
+        text-decoration:none;
+        font-size:20pt;
+        text-align:center;}
